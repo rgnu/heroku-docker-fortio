@@ -1,7 +1,7 @@
 {
-  "name": "heroku-docker-jsonplaceholder",
-  "description": "A barebones jsonplaceholder installation using Docker",
-  "repository": "https://github.com/rgnu/heroku-docker-jsonplaceholder",
-  "keywords": ["jsonplaceholder", "docker"],
+  "name": "heroku-docker-fortio",
+  "description": "A barebones fortio installation using Docker",
+  "repository": "https://github.com/rgnu/heroku-docker-fortio",
+  "keywords": ["fortio", "docker"],
   "stack": "container"
 }
